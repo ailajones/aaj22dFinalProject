@@ -9,6 +9,8 @@ Project Report
  <img width="1675" height="962" alt="Screenshot 2026-04-28 162542" src="https://github.com/user-attachments/assets/b576441d-ce80-4f2c-877f-e481744a6d47" />
 <img width="1754" height="872" alt="Screenshot 2026-04-28 155246" src="https://github.com/user-attachments/assets/d4256b6e-896e-4c44-a15d-fe82008bf31b" />
 <img width="1825" height="899" alt="Screenshot 2026-04-28 155312" src="https://github.com/user-attachments/assets/9d3b3d50-d8e3-4d2e-a30d-026c51abec2a" />
+<img width="2453" height="1081" alt="Screenshot 2026-04-28 164021" src="https://github.com/user-attachments/assets/e875c30d-2054-4c1c-a4dc-c3a526291edc" />
+
 
 - The main challenge I faced was honestly the terrain tool. It helped me with a lot of the landscaping but getting it just right was pretty difficult. Most of the time making this was spent messing with the height of the terrain as well as figuring out how to get the tree tool to work how I wanted. Overall I'm most proud of the little pond and how I was able to use the terrain tool and a blue plane to make it look (relatively) realistic.
 
